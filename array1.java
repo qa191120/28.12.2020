@@ -10,7 +10,6 @@ public class Main
         Scanner s = new Scanner(System.in);
         Random r = new Random();
 
-        /*
         // 1. when we do not know the array size
         // 2. long array
         //int[] arr = {1,2,3,4,5,6,}
@@ -67,7 +66,7 @@ public class Main
         System.out.println("Please enter array size:");
         int size = s.nextInt();
         double[] arr_double = new double[size];
-*/
+
         // ask user for the array size (class)
         // create an array of this size (int)
         // input all numbers from the user into the array
