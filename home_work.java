@@ -15,9 +15,9 @@
             A [ 5, 8, 6, 2, 3]  -- random
             B [ 3, 7, 8, 3, 1]  -- random
             C [ 8,15,14, 5, 4]  -- sum
-            *etgar: create int array D which will contain the larger name
+            *etgar: create int array D which will contain the larger name from A or B
             *D[ 5, 8, 8, 3, 3]
-            *etgar: create in array E which will be concat of the array
+            *etgar: create in array E which will be concat of the array A and B
             *E[ 5, 8, 6, 2, 3, 3, 7, 8, 3, 1]
          3. ***etgar crazy:
             input number of classes from user
