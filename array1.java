@@ -87,18 +87,6 @@ public class Main
         float avg = sum / grades.length;
         System.out.println(avg);
 
-        // 1. input array size from user
-        //    create int array in the given size
-        //    populate the array with random numbers
-        //    sum the array
-        //    print the average number
-        // 2. ***etgar crazy:
-        //    input number of classes from user
-        //    for each size input number of students
-        //    input all numbers from user
-        //    calculate the average of each class in an array
-        //    calculate the average of averages
-
         System.out.println("Goodbye...");
     }
 }
